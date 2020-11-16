@@ -45,6 +45,8 @@ public class Questao03 {
 			
 			if (notas > 0)
 				System.out.println(notas+ " nota(s) de R$ 1.");
+			
+			scan.close();
 		}
 	}
 }

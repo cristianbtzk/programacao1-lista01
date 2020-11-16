@@ -34,6 +34,8 @@ public class Questao01 {
 		
 		System.out.println("Altura: "+altura+"m. Peso: "+peso+" kg. Sexo: "+sexo+".");
 		System.out.println("O peso ideal para você é "+pesoIdeal+" kg, e você está "+situacao);
+		
+		scan.close();
 	}
 	
 }
